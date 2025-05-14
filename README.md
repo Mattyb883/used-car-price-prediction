@@ -95,7 +95,7 @@ Unimportant features were excluded to optimize training time.
 
 ---
 
-## ⚙Installation & Usage
+## Installation & Usage
 
 To reproduce this project:
 
